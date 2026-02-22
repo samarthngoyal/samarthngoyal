@@ -7,6 +7,7 @@ I'm a passionate **computer science major specialising in data science**.
 - 🔭 **Building**: Personal projects that solve real-world problems
 - 🏆 **Competing**: Participating in hackathons and coding competitions
 - 🌱 **Learning**: Constantly expanding my skillset
+<br/><br/>
 
 
 
@@ -52,6 +53,7 @@ I'm a passionate **computer science major specialising in data science**.
 **Content & Community:**
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@samarthgoyal9916) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/toa_python)
 <br/><br/>
+
 
 
 ## 📫 Let's Collaborate!
