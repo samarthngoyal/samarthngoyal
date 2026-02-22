@@ -8,7 +8,15 @@ I'm a passionate **computer science major specialising in data science**.
 - 🏆 **Competing**: Participating in hackathons and coding competitions
 - 🌱 **Learning**: Constantly expanding my skillset
 
----
+
+
+## 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=samarthngoyal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=samarthngoyal&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthngoyal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ## 💻 Tech Stack
 
@@ -42,14 +50,6 @@ I'm a passionate **computer science major specialising in data science**.
 
 **Content & Community:**
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@samarthgoyal9916) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/toa_python)
-
-
-
-## 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=samarthngoyal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=samarthngoyal&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthngoyal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
