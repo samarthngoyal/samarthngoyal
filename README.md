@@ -2,11 +2,11 @@
 
 I'm a passionate **computer science major specialising in data science**.
 
-🎯 Here's what I do
+🎯 Here's what I do:
 
-- 🔭 **Building**: Personal projects that solve real-world problems
-- 🏆 **Competing**: Participating in hackathons and coding competitions
-- 🌱 **Learning**: Constantly expanding my skillset
+- 🔭 **Build**: Personal projects that solve real-world problems
+- 🏆 **Compete**: Participating in hackathons and coding competitions
+- 🌱 **Learn**: Constantly expanding my skillset
 <br/><br/>
 
 
