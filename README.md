@@ -10,13 +10,13 @@ I'm a passionate **computer science major specialising in data science**.
 <br/><br/>
 
 
-
+<!--
 ## 📊 GitHub Analytics
 
 ![](https://github-readme-stats.vercel.app/api?username=samarthngoyal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=samarthngoyal&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthngoyal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+-->
 
 
 ## 💻 Tech Stack
